@@ -315,19 +315,21 @@ btn.addEventListener('click', function() {
    var img = document.createElement('img')
    var x = Math.floor(Math.random() * 100)
    var y = Math.floor(Math.random() * 100)
-   var rot = Math.floor(Math.random() * 360)
+//    var rot = Math.floor(Math.random() * 360)
 
    let num=   Math.floor(Math.random()*arr.length);
    let winner = arr[num];
 
     img.setAttribute('src', winner.image)
-     img.style.height = '200px'
-    img.style.width = '200px'
+     img.style.height = '150px'
+    img.style.width = '150px'
     img.style.objectFit = "cover"
     img.style.left = x + '%'
      img.style.top = y + '%'
     //  img.style.transform = 'rotate(' + rot + 'deg)'
     img.style.position = 'absolute'
+    // img.style.padding = '10px'
+    // img.style.transition = 'all 1.5s ease'
     footer.appendChild(img)
 
 });

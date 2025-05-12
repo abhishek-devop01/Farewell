@@ -431,12 +431,14 @@ section{
     color: black;
     will-change: transform;
     font-size: 1.4rem;
-    padding-right: .3rem;
+    text-align: center;
+    /* padding-right: .3rem; */
 }
 #discover .discover__container  .text__left{
     font-weight: 600;
     /* background-color: #3f3636; */
     margin-bottom: 2vh;
+    font-size: 2.8rem;
 }
 
 /* End video */
@@ -473,6 +475,8 @@ section{
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    position: relative;
+    padding: 1rem;
 }
 
 .footer__container{
@@ -533,6 +537,7 @@ button{
     border-radius: 20px;
     font-size: clamp(.5rem, 5cqi, 1rem);
     margin-top: 2em;
+    /* font-weight: 700; */
 
 }
 button:active{
