@@ -185,6 +185,31 @@ btn.addEventListener('click', function() {
         },{
             
             image: './assets/29.jpeg' 
+        },
+        {
+            
+            image: './assets/12.jpg' 
+
+        },
+        {
+            
+            image: './assets/13.jpeg' 
+
+        },
+        {
+            
+            image: './assets/14.jpeg' 
+
+        },
+        {
+            
+            image: './assets/15.jpeg' 
+
+        },
+        {
+            
+            image: './assets/16.jpeg' 
+
         },{
             
             image: './assets/30.jpeg' 
@@ -238,31 +263,7 @@ btn.addEventListener('click', function() {
             image: './assets/11.jpg' 
 
         },
-        {
-            
-            image: './assets/12.jpg' 
-
-        },
-        {
-            
-            image: './assets/13.jpeg' 
-
-        },
-        {
-            
-            image: './assets/14.jpeg' 
-
-        },
-        {
-            
-            image: './assets/15.jpeg' 
-
-        },
-        {
-            
-            image: './assets/16.jpeg' 
-
-        },
+        
         {
             
             image: './assets/17.jpeg' 
@@ -296,6 +297,18 @@ btn.addEventListener('click', function() {
         {
             
             image: './assets/23.jpeg' 
+
+        },{
+            
+            image: './assets/38.jpeg' 
+
+        },{
+            
+            image: './assets/39.jpeg' 
+
+        },{
+            
+            image: './assets/40.jpeg' 
 
         },
         {
@@ -339,17 +352,19 @@ btn.addEventListener('click', function() {
             
             image: './assets/37.jpeg' 
 
-        },{
+        },
+        {
             
-            image: './assets/38.jpeg' 
+            image: './assets/50.jpeg' 
+
+        },
+        {
+            
+            image: './assets/52.jpeg' 
 
         },{
             
-            image: './assets/39.jpeg' 
-
-        },{
-            
-            image: './assets/40.jpeg' 
+            image: './assets/53.jpeg' 
 
         },{
             
@@ -382,10 +397,6 @@ btn.addEventListener('click', function() {
         },{
             
             image: './assets/49.jpeg' 
-
-        },{
-            
-            image: './assets/50.jpeg' 
 
         },
     ]
