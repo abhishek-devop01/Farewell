@@ -16,9 +16,9 @@ const projects = [
     },
     {
         name: 'COLLEGE',
-        type: 'COLLEGE-FIELD',
+        type: 'COLLEGE-GROUND',
         pos: 'end',
-        image: './assets/img3.jpeg' 
+        image: './assets/29.jpeg' 
     },
     {
         name: 'COLLEGE',
@@ -48,9 +48,9 @@ const projects = [
     },
     {
         name: 'COLLEGE',
-        type: 'B-DAY',
+        type: 'FAREWELL',
         pos: 'end',
-        image: './assets/24.jpeg' 
+        image: './assets/30.jpeg' 
     },
 
 ]
@@ -102,7 +102,7 @@ const blogPosts = [
         
     },
     {
-        title: 'OKKKKKKKKKKKKKK',
+        title: 'OKKKKKKKKK',
         time: 'SEE YOU SOON!!!!',
         image: './assets/15.jpeg' 
         
