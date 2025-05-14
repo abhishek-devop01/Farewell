@@ -15,7 +15,7 @@ const projects = [
 
     },
     {
-        name: 'COLLEGE',
+        name: 'NLC',
         type: 'COLLEGE-GROUND',
         pos: 'end',
         image: './assets/29.jpeg' 
@@ -47,7 +47,7 @@ const projects = [
         image: './assets/22.jpeg' 
     },
     {
-        name: 'COLLEGE',
+        name: 'NLC',
         type: 'FAREWELL',
         pos: 'end',
         image: './assets/18.jpeg' 
