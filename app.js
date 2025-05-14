@@ -320,16 +320,75 @@ btn.addEventListener('click', function() {
         },
         {
             
-            image: './assets/25.jpeg' 
+            image: './assets/33.jpeg' 
 
         },
         {
             
-            image: './assets/10.jpeg' 
+            image: './assets/46.jpeg' 
+
+        },{
+            
+            image: './assets/35.jpeg' 
+
+        },{
+            
+            image: './assets/36.jpeg' 
+
+        },{
+            
+            image: './assets/37.jpeg' 
+
+        },{
+            
+            image: './assets/38.jpeg' 
+
+        },{
+            
+            image: './assets/39.jpeg' 
+
+        },{
+            
+            image: './assets/40.jpeg' 
+
+        },{
+            
+            image: './assets/41.jpeg' 
+
+        },{
+            
+            image: './assets/42.jpeg' 
+
+        },{
+            
+            image: './assets/43.jpeg' 
+
+        },{
+            
+            image: './assets/44.jpeg' 
+
+        },{
+            
+            image: './assets/45.jpeg' 
+
+        },{
+            
+            image: './assets/47.jpeg' 
+
+        },{
+            
+            image: './assets/48.jpeg' 
+
+        },{
+            
+            image: './assets/49.jpeg' 
+
+        },{
+            
+            image: './assets/50.jpeg' 
 
         },
     ]
-
    var img = document.createElement('img')
    var x = Math.floor(Math.random() * 100)
    var y = Math.floor(Math.random() * 100)

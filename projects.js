@@ -36,7 +36,7 @@ const projects = [
         name: 'COLLEGE',
         type: 'CLASSROOM',
         pos: 'mid',
-        image: './assets/18.jpeg' 
+        image: './assets/30.jpeg' 
 
         
     },
@@ -50,7 +50,7 @@ const projects = [
         name: 'COLLEGE',
         type: 'FAREWELL',
         pos: 'end',
-        image: './assets/30.jpeg' 
+        image: './assets/18.jpeg' 
     },
 
 ]
@@ -94,6 +94,11 @@ const blogPosts = [
         title: 'DOIMUKH',
         time: 'RG-UNIVERSITY', 
         image: './assets/14.jpeg' 
+    },
+    {
+        title: 'NLC',
+        time: 'COLLEGE-GROUND', 
+        image: './assets/49.jpeg' 
     },
     {
         title: 'CLASSROOM',
