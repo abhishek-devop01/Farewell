@@ -176,6 +176,24 @@ btn.addEventListener('click', function() {
         {
             
             image: './assets/img1.jpeg' 
+        },{
+            
+            image: './assets/27.jpeg' 
+        },{
+            
+            image: './assets/28.jpeg' 
+        },{
+            
+            image: './assets/29.jpeg' 
+        },{
+            
+            image: './assets/30.jpeg' 
+        },{
+            
+            image: './assets/31.jpeg' 
+        },{
+            
+            image: './assets/32.jpeg' 
         },
         {
             
